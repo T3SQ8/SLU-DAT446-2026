@@ -33,8 +33,7 @@ Modifiera nu programmet sådan att triangeln inte behöver vara ifylld. Alltså 
 Slutligen döper jag filen till `triangeln.py`
 
 # Uppgift 2: Python som geometrisk miniräknare
-Ni kanske fått höra av några föreläsare att 'det här gör ni aldrig i praktiken algebraiskt, utan det görs med datorer'. Men hurs det egentligen? Många sådana problem är rätt komplicerade men i denna uppgift ska ni bygga ett program som kan hjälpa er med enkla geometriska problem.
-
+Ni kanske fått höra av några föreläsare att 'det här gör ni aldrig i praktiken algebraiskt, utan det görs med datorer'. Men hur görs det egentligen? Många sådana problem är rätt komplicerade men i denna uppgift ska ni bygga ett program som kan hjälpa er med enkla geometriska problem.
 
 ## Trianglar
 - Låt användaren ge input i form av en triangels sida
@@ -47,7 +46,7 @@ Ni kanske fått höra av några föreläsare att 'det här gör ni aldrig i prak
 
 Slutligen döper jag filen till `calc.py`
 
-# Uppgift 3: FizzBuz
+# Uppgift 3: FizzBuzz
 
 Som barn kanske ni har spelat någon variant av FizzBuzz. Spelet går ut på att du och en kompis räknar uppåt från 1 och frammåt men med några twister:
 
@@ -65,7 +64,7 @@ Slutligen döper jag filen till `fizzBuzz.py` (Denna variant är funktionen `fiz
 
 Nu gör vi leken svårare. När du kommer till ett tal som är delbart med 7 ersätter du det med Fuzz & och för tal som är delbara med 7 & 3 respektive 7 & 5 ska de ersättas med FizzFuzz respektive BuzzFuzz.
 
-Hur jobbigt var det att göra det med din tidigare program? Hur går det att skriva om programmet sådan att det blir lättare att förändra programmets funktion i efterhand?
+Hur jobbigt var det att göra det med ditt tidigare program? Hur går det att skriva om programmet sådan att det blir lättare att förändra programmets funktion i efterhand?
 
 Lösningen till denna finns i `fizzBuzz.py` inuti funktionen `fizzBuzz_lists`
 
