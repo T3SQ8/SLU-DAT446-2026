@@ -11,6 +11,12 @@ Varje uppgift har även tillhörande facit som finns i respektive föreläsnings
 Oftast finns det två svar på den andra frågan: lättläshet & robusthet. Koden ska vara så lättläst som möjligt men ska även vara robust, alltså att programmet ska lätt gå att forma om ifall uppgiftskraven förändras.
 
 
-## Lecture 0: The computer and the operating system 
+## Föreläsning 0: Datorn och operativsystem
 
 Generella frågor om hur datorn fungerar och dess processer.
+
+## Föreläsning 1: Variabler & Loopar 
+
+- [ ] Triangeln
+- [ ] Geometrisk miniräknare
+- [ ] FizzBuzz
