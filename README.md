@@ -1,5 +1,7 @@
 Förra årets material finns [här](https://github.com/T3SQ8/SLU-DAT446-2025).
 
+Cheat sheet finns [här](https://github.com/T3SQ8/SLU-DAT446-2025/blob/master/99-formelblad/cheat_sheet.pdf).
+
 
 # Uppgifter
 
