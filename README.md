@@ -22,3 +22,17 @@ Generella frågor om hur datorn fungerar och dess processer.
 - [ ] Triangeln
 - [ ] Geometrisk miniräknare
 - [ ] FizzBuzz
+
+## Föreläsning 2: Design & Funktioner
+- [ ] Lös problemen som finns med den givna filen
+
+## Föreläsning 3: Number representations & Arithmetics
+- [ ] Grundläggande floating-point arithemtic
+- [ ] Ränta på ränta-beräkning
+- [ ] Avstånd mellan två punkter
+- [ ] Simulering av exponentiell tillväxt
+- [ ] Trigonometriska beräkningar
+- [ ] Lösning av andragradsekvation
+- [ ] Numpy-arrayoperationer (Svårare)
+- [ ] Numpy-matrisoperationer (Svårare)
+
