@@ -23,7 +23,7 @@ Se föreläsning 0, "The computer and the operating system".
 1. Vad är RAM och hur fungerar den? (nämn adresser, "random")
 2. Vad är en bit, byte, nibble, word?
 3. Hur mycket RAM har din dator? (Kan hittas under inställningar.)
-4. En viss dator har 8 GB (gigabyte RAM-minne. Hur många bitar kan den lagra?
+4. En viss dator har 8 GB (GigaByte) RAM-minne. Hur många bitar kan den lagra?
 5. Vad är det som gör att vi behöver andra sätt att lagra data utöver RAM?
 
 > 1. "Random Access Memory", varje byte har en adress som dator kan använda för
