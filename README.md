@@ -36,3 +36,13 @@ Generella frågor om hur datorn fungerar och dess processer.
 - [ ] Numpy-arrayoperationer (Svårare)
 - [ ] Numpy-matrisoperationer (Svårare)
 
+## Föreläsning 9: Grundläggande objektivt orienterad programmering
+- [ ] Skapa klassen Rectangle
+- [ ] Skapa metoden get_perimeter
+- [ ] Skapa metoden get_area
+- [ ] Skapa metoden get_middle
+- [ ] Skapa metoden intersects (+ eventuella hjälpfunktioner)
+
+## Self-practice
+
+Lösningar till self-practice uppgifter läggs upp [här](./99-self-practice).
