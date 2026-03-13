@@ -2,7 +2,7 @@ def is_group_complete(m,i,j):
   if i > len(m) - 2:
     return False
 
-  if i > len(m[0]) - 2:
+  if j > len(m[0]) - 2:
     return False
 
   return True
@@ -33,7 +33,24 @@ def rotate_group(m,i,j):
   m[i+1][j+1] = m[i][j+1]
   m[i][j+1] = origin_value
 
-
-# Ifall du vill se lösningen på denna rekommenderas GitLab:n med tentafrågor eller komma på onsdagspasset
 def iteration(n,m):
-  pass
+  offset = n % 2
+
+  for row in range(len(m)):
+    if row % 2 != offset:
+        continue
+    
+    for col in range(len(m[0])):
+      if not is_group_complete(m, row, col):
+        continue
+
+      if not is_single_group(m, row, col):
+        continue
+  
+      if col % 2 != offset:
+        continue
+      
+      rotate_group(m, row, col)
+
+
+  
