@@ -1,6 +1,11 @@
-Förra årets material finns [här](https://github.com/T3SQ8/SLU-DAT446-2025).
+# Quick-links
 
-Cheat sheet finns [här](https://github.com/T3SQ8/SLU-DAT446-2025/blob/master/99-formelblad/cheat_sheet.pdf).
+| Material                     | Länk                                                                                                             |
+|------------------------------|------------------------------------------------------------------------------------------------------------------|
+| Lösningar self-practice 2026 | [GitHub sida](./99-self-practice)                                                                                |
+| Hugos formelblad             | [GitHub sida](./99-övriga-resurser/hugos_formel_blad.md) |
+| Cheatsheet 2025              | [PDF](https://github.com/T3SQ8/SLU-DAT446-2025/blob/master/99-formelblad/cheat_sheet.pdf)                        |
+| Material för SLU 2025        | [GitHub sida](https://github.com/T3SQ8/SLU-DAT446-2025)                                                          |
 
 
 # Uppgifter
@@ -42,7 +47,3 @@ Generella frågor om hur datorn fungerar och dess processer.
 - [ ] Skapa metoden get_area
 - [ ] Skapa metoden get_middle
 - [ ] Skapa metoden intersects (+ eventuella hjälpfunktioner)
-
-## Self-practice
-
-Lösningar till self-practice uppgifter läggs upp [här](./99-self-practice).
