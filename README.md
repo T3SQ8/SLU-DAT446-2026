@@ -1,11 +1,11 @@
 # Quick-links
 
-| Material                     | Länk                                                                                                             |
-|------------------------------|------------------------------------------------------------------------------------------------------------------|
-| Lösningar self-practice 2026 | [GitHub sida](./99-self-practice)                                                                                |
-| Hugos formelblad             | [GitHub sida](./99-övriga-resurser/hugos_formel_blad.md) |
-| Cheatsheet 2025              | [PDF](https://github.com/T3SQ8/SLU-DAT446-2025/blob/master/99-formelblad/cheat_sheet.pdf)                        |
-| Material för SLU 2025        | [GitHub sida](https://github.com/T3SQ8/SLU-DAT446-2025)                                                          |
+| Material                     | Länk                                                                                      |
+|------------------------------|-------------------------------------------------------------------------------------------|
+| Lösningar self-practice 2026 | [GitHub sida](./99-self-practice)                                                         |
+| Hugos formelblad             | [GitHub sida](./99-extra-material/hugos_formel_blad.md)                                   |
+| Cheatsheet 2025              | [PDF](https://github.com/T3SQ8/SLU-DAT446-2025/blob/master/99-formelblad/cheat_sheet.pdf) |
+| Material för SLU 2025        | [GitHub sida](https://github.com/T3SQ8/SLU-DAT446-2025)                                   |
 
 
 # Uppgifter
